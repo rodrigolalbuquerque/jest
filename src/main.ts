@@ -3,7 +3,7 @@ import { Order } from './classes/order';
 import { Persistency } from './services/persistency';
 import { Product } from './classes/product';
 import { ShoppingCart } from './classes/shopping-cart';
-import { TenPercentDiscount } from './classes/discounts';
+import { TenPercentDiscount } from './classes/discount';
 import { EnterpriseCustomer } from './classes/customer';
 
 // const noDiscount = new NoDiscount();
