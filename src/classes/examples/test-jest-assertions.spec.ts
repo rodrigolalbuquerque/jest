@@ -17,6 +17,6 @@ describe('Objects', () => {
   it('should have property age', () => {
     const person = { name: 'Luiz', age: 30 };
 
-    expect(person).toHaveProperty('agea');
+    expect(person).toHaveProperty('age');
   });
 });
